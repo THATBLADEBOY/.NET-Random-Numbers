@@ -1,0 +1,11 @@
+/Users/Blade/Desktop/workspace/dotnet/random-numbers/bin/Debug/netcoreapp2.2/random-numbers.deps.json
+/Users/Blade/Desktop/workspace/dotnet/random-numbers/bin/Debug/netcoreapp2.2/random-numbers.runtimeconfig.json
+/Users/Blade/Desktop/workspace/dotnet/random-numbers/bin/Debug/netcoreapp2.2/random-numbers.runtimeconfig.dev.json
+/Users/Blade/Desktop/workspace/dotnet/random-numbers/bin/Debug/netcoreapp2.2/random-numbers.dll
+/Users/Blade/Desktop/workspace/dotnet/random-numbers/bin/Debug/netcoreapp2.2/random-numbers.pdb
+/Users/Blade/Desktop/workspace/dotnet/random-numbers/obj/Debug/netcoreapp2.2/random-numbers.csprojAssemblyReference.cache
+/Users/Blade/Desktop/workspace/dotnet/random-numbers/obj/Debug/netcoreapp2.2/random-numbers.csproj.CoreCompileInputs.cache
+/Users/Blade/Desktop/workspace/dotnet/random-numbers/obj/Debug/netcoreapp2.2/random-numbers.AssemblyInfoInputs.cache
+/Users/Blade/Desktop/workspace/dotnet/random-numbers/obj/Debug/netcoreapp2.2/random-numbers.AssemblyInfo.cs
+/Users/Blade/Desktop/workspace/dotnet/random-numbers/obj/Debug/netcoreapp2.2/random-numbers.dll
+/Users/Blade/Desktop/workspace/dotnet/random-numbers/obj/Debug/netcoreapp2.2/random-numbers.pdb
